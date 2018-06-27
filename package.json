@@ -1,0 +1,30 @@
+{
+  "name": "react-webapp-demo2",
+  "version": "1.0.0",
+  "description": "This is webapp use react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PengLunJian/react-webapp-demo2.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Peng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PengLunJian/react-webapp-demo2/issues"
+  },
+  "homepage": "https://github.com/PengLunJian/react-webapp-demo2#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "webpack": "^4.12.2"
+  },
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
